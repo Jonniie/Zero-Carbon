@@ -7,8 +7,9 @@
 
 ## Installation
 
-1. **Clone or navigate to the project directory:**
+1. **Clone and navigate to the project directory:**
    ```bash
+   git clone https://github.com/Jonniie/zero-carbon.git
    cd /zero-carbon
    ```
 
@@ -54,7 +55,7 @@ This file contains vehicle telemetry records including GPS coordinates, speed, b
 
 ## Output
 
-- **Map visualization**: `jego_fleet_corridors.html` — interactive Folium map showing vehicle routes
+- **Map visualization**: `jego_fleet_corridors_raw.html and jego_fleet_corridors_snapped.html` — interactive Folium map showing vehicle routes
 - **Analysis results**: Displayed inline in the notebook (trip summaries, carbon metrics, efficiency scores)
 
 ## Dependencies
